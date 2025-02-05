@@ -1,0 +1,54 @@
+URL: https://www.xfinity.com/terms/purchases/
+
+
+Purchased Content Terms and Conditions
+
+Effective Date: February 13, 2024
+
+When you purchase video content (“Purchased Content”) through any Xfinity-branded service, including Xfinity cable television and other video services (“TV”), you agree to these Purchased Content Terms and Conditions (“Purchase Terms”). Purchased Content includes movies, television episodes, television seasons, video games, and other video content. These Purchase Terms do not apply to any other TV features, including rental video-on-demand or pay-per-view content.
+
+TV is a “Service” subject to the Xfinity Residential Services Agreement (the “Agreement”) Capitalized words that are not defined in these Purchase Terms have the meaning specified in the Agreement.
+
+Privacy
+
+To understand how we collect and use information in connection with Purchased Content, please read our privacy policy, available at www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy.
+
+Pricing and Pre-Orders
+
+If you buy Purchased Content, we will charge you the specified price, plus any applicable sales tax, franchise fees, or other assessments. Purchases of Purchased Content are final, and we do not offer substitutions, exchanges, or refunds. The price of Purchased Content may change at any time without notice. We do not offer price protection, and we do not offer refunds if you buy Purchased Content and the price later decreases.
+
+When you pre-order Purchased Content, you authorize us to automatically bill you when it becomes available. You may cancel your pre-order before the Purchased Content becomes available. If you cancel, you can no longer view the pre-order extras. We may add or remove pre-ordered content, including video games and extras, without notice. If you pre-order a television season, you authorize us to automatically bill you in full when the first episode is placed or displayed under your “Purchases.” When you buy a television season after the first episode of that season has aired, you authorize us to bill you immediately for the full price of that season. Video games may be removed or decommissioned from being available at any time.
+
+Device Requirements
+
+You may view Purchased Content on certain authorized, Xfinity set-top boxes, including Xfinity Flex streaming TV boxes (“Boxes”). You may purchase and/or view Purchased Content on certain other authorized devices, however the device must meet certain minimum equipment requirements described in our FAQs; these requirements are subject to change without notice (“Compatible Device”). You are responsible for checking for updated requirements for Compatible Devices.
+
+To view or use certain Purchased Content, you may need to download and install certain software on your Compatible Device, such as mobile applications or device-management PC software (“Access Software”). You will only use Access Software to view Purchased Content or other content we authorize. Access Software is subject to the terms of any license shown during download or installation. If no license appears, our Software License Agreement applies.
+
+If your Compatible Device does not allow us to automatically update the Access Software, you must ensure the Access Software is up to date. If your Compatible Device allows automatic updates, you agree that we may remotely update, upgrade, or change the Access Software. We may also make related changes to the settings and software on your Compatible Device to support your ability to view Purchased Content.
+
+Purchased Content Is Licensed
+
+Whether you “purchase,” “buy,” or “own” Purchased Content, we license that content to you. We grant you a limited, non-exclusive, revocable, non-transferable, non-sublicensable license to access and view the Purchased Content for your personal, residential, and non-commercial use, for as long as we make the Purchased Content available, subject to (a) your payment of all applicable fees, and (b) your compliance with these Purchase Terms, the Agreement, and any other licenses, terms, or conditions imposed by, among others, the applicable digital rights management technology used to protect the Purchased Content. Except for this limited license, you have no right, title, or interest in or to any Purchased Content. All copyrights and trademarks are the property of their respective owners.
+
+Limits on Your Use
+
+You may not copy, sell, rent, lease, distribute, broadcast, publicly perform or display, sublicense, transfer, or otherwise assign any Purchased Content (in whole or in part), or any rights or license associated with Purchased Content. For example, you may not sell or distribute any code or credentials (including usernames and passwords) that allow access to any Purchased Content.
+
+You, and all other user accounts associated with your Service, may not collectively stream or download more than three (3) copies of a single Purchased Content title at any given time across all devices using the Xfinity Stream portal or Xfinity Stream app. Streaming Purchased Content on an Xfinity Flex streaming TV Box (a “Flex Box”) counts towards your three (3) streams; but streaming Purchased Content on any other Box does not count towards the three (3) stream limit. You agree not to circumvent, remove, alter, deactivate, interfere with, or degrade any of the content protections applied to or contained within Purchased Content. Our FAQs have more information about Xfinity On Demand purchases and equipment requirements.
+
+All Purchased Content may be available to other users and accounts associated with your Service, including through a Box, the Xfinity Stream portal, or the Xfinity Stream app. To learn more about Xfinity parental controls for Purchased Content, read our FAQs.
+
+Limits on Availability
+
+If you buy Purchased Content on one device, it may not be immediately available on your other devices. For example, when you buy Purchased Content on your Box, computer, or mobile device, it may not be immediately available on the Xfinity Stream portal or Xfinity Stream app.
+
+Purchased Content may become unavailable for many reasons, including due to content provider licensing restrictions or if we choose to stop offering video content purchasing. We have no liability for Purchased Content that becomes unavailable for further use. If your purchase includes the ability to download Purchased Content, you should download it immediately to preserve your access to it. You may only download Purchased Content to the Xfinity Stream app on mobile Compatible Devices. To watch downloaded Purchased Content using the Xfinity Stream app on a mobile Compatible Device, you must periodically connect to the Internet and open the app. If you do not, you may temporarily lose the ability to playback downloaded Purchased Content on that device.
+
+You may watch Purchased Content (other than video games or certain extras) on any Box, other than a Flex Box, without an Internet connection. To watch Purchased Content on a Flex Box or on a Compatible Device, you must be connected to the Internet, unless you are watching downloaded Purchased Content using the Xfinity Stream app on a mobile Compatible Device (as set forth above).
+
+Some Purchased Content, including video games and extras, may be viewed only on your Box, not on other devices, and may also require a real-time Internet connection.
+
+Cancelling Your Service
+
+If you cancel your Xfinity TV Service, but still have Xfinity Internet Service, you will still have access to Purchased Content through your Flex Boxes, but not through any other Boxes. If you cancel both of these Services, you will no longer have access to Purchased Content through your Boxes. However, in all cases, you may continue to watch purchased titles (e.g., movies and TV episodes) that are Purchased Content on www.xfinity.com/stream/ or on mobile Compatible Devices with the Xfinity Stream app. Video games and extras will not be available on any device.

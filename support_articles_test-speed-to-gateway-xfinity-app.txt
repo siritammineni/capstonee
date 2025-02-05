@@ -1,0 +1,73 @@
+URL: https://www.xfinity.com/support/articles/test-speed-to-gateway-xfinity-app
+
+Test your speed to the gateway using the Xfinity app
+
+If you rent an Xfinity Gateway, you can use the Xfinity app to perform a whole home network test, which makes it easy to check for service outages, measure the speed of your Xfinity Gateway, and check the connection strength to all your devices. This test determines if your home is getting healthy internet speeds and the types of activities your WiFi signal can support. It’s available to Xfinity Internet customers with compatible Xfinity Gateways (excludes DPC3939 and X5001 models) who have the Xfinity app.
+
+Gigabit x2 notes
+
+All Gigabit x2 customers with an XB7 Xfinity Gateway (model TG4482A) who fail a speed-to-gateway test are eligible for a device swap, which will be offered in the Xfinity app.
+
+If you are unable to access the Xfinity app gateway speed test and would like to test your speeds, you can use device speed test sites, including speedtest.xfinity.com, using any device with a web browser.
+
+For details on why the tests differ, visit the Speed to gateway vs. speed to devices section below.
+
+If you run a speed test through a web browser, the results may differ from your plan's advertised speed due to various factors like WiFi conditions and device capabilities.
+
+To remove some of these variables, you can plug a 2Gig-capable computer directly into your Xfinity Gateway through the 2.5 Gbps ethernet port marked with the orange bar (see below for an example) using a Cat6 ethernet cable (or newer) and run a speed test from that computer.
+
+If you’re a Gigabit x2 customer that can access the Xfinity app gateway speed test, it’s normal for speeds to fluctuate between 75% and 115% of plan speeds.
+
+Speed to gateway vs. speed to devices
+
+It’s important to differentiate between the speed of the internet connection to the Xfinity Gateway and the speed that reaches individual devices in the home.
+
+The speed-to-gateway test measures the speed of the internet connection to the Xfinity Gateway in your home. This differs from traditional internet speed tests, like our Xfinity Speed Test, which measures the speed reaching the device that’s running the test itself.
+
+The speed-to-gateway results are often higher than results from a traditional speed test because they aren't impacted by various factors like WiFi conditions or device capabilities.
+
+If your results are higher than planned speeds, you’re likely getting faster than planned speeds to the gateway. Speed to the gateway will usually be higher than the speed to the device. Differences are most often caused by WiFi connections, rather than by the network itself.
+
+How to perform a whole home network test
+
+Sign in to the Xfinity app with your Xfinity ID and password.
+
+Select WiFi from the bottom of the app.
+
+Select Troubleshoot.
+
+Tap Test your whole home network.
+
+From here, the app tests both the speed to your gateway and to the devices you’re using to access Xfinity Internet.
+
+Note: You can test connectivity for a single device by selecting WiFi, and scrolling down to the list of connected devices to choose the device you wish to check, then clicking Troubleshoot Device to start the test.
+
+Speed-to-gateway test results
+
+If your speed test results are higher than 90% of the speeds included with your Xfinity Internet plan, your network connection is working properly. If you're still experiencing connectivity issues, see our tips and tricks to help improve the WiFi connection to devices in your home.
+
+If your speed test results are lower than 90% of the speeds included with your Xfinity Internet plan, you’ll be presented with one of two options:
+
+Gateway Upgrade: If the speed-to-gateway test determines your gateway isn't able to match your Xfinity Internet plan, we’ll provide a new one at no additional cost.
+
+Gateway Restart: If the speed-to-gateway test determines your gateway is compatible with your Xfinity Internet plan, you’re prompted to restart your gateway to help resolve any issues, after which the test runs again automatically.
+
+If your speeds are still low after the second test, we’ll need to schedule a technician visit to your home.
+
+Note: If you’re a Gigabit x2 customer that can access the Xfinity app gateway speed test, it’s normal for speeds to fluctuate between 75% and 115% of plan speeds.
+
+Device connection results
+
+The device connection test provides the connection strength of any device connected to the Xfinity Gateway. The results don’t show a numerical speed test but instead show the activities supported by your WiFi signal. When selecting the connected device, you’ll see:
+
+Green check marks next to all the supported activities.
+
+Red Xs next to any of the activities your device connection can't support.
+
+If one or more of your device activities aren't supported by your WiFi signal, you can select Help Me Improve to browse tips to improve your connection strength. If all your device activities are supported by your WiFi signal but you’re still having issues with that device, you can select Still Having Issues? to browse helpful tips to help you resolve your issues.
+
+Was this page helpful?
+
+Recommended Articles
+
+Xfinity Speed Test — FAQs Check your computer's performance Xfinity Internet and WiFi connection troubleshooting Get the most from your Xfinity Gigabit Internet service Slow computer troubleshooting Xfinity On Campus — How do I upgrade my internet speed? How to pay your Xfinity bill online

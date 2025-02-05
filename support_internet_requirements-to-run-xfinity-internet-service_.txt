@@ -1,0 +1,69 @@
+URL: https://www.xfinity.com/support/internet/requirements-to-run-xfinity-internet-service/
+
+Xfinity Internet minimum system recommendations
+
+The following minimum system recommendations for your connected devices will ensure you’re getting the most out of your Xfinity Internet service.
+
+If you meet the requirements but are not achieving the speed for your subscribed speed tier, please note:
+
+To achieve the upper range of your speed tier, you must be connected via a wired Ethernet connection.
+
+Speeds through a hardwired connection are inherently faster than speeds over WiFi due to potential wireless interference.
+
+There are a number of external factors that may limit your speed; as a result, actual speeds may vary.
+
+External factors that could impact speeds include:
+
+External interference
+
+Downloads/uploads in progress
+
+Open programs on your devices
+
+Number of devices connected to your home network
+
+Whenever possible, your Xfinity Gateway should be placed in a central, unobstructed location of your home, off the floor and away from other electronic devices.
+
+For better WiFi performance, see these tips.
+
+Make sure that your internet equipment is up-to-date and able to support the speeds on your package. (For example, a DOCSIS 3.0 Internet device will not support Gigabit speeds from Xfinity.) You can check to see if you’re eligible for an equipment update at xfinity.com/equipmentupdate.
+
+System recommendations by speed tier
+
+Xfinity Internet minimum system requirements — For speeds up to 2 Gigabits per second Operating system Windows 10 (64-bit) or Mac OS X 10.10 Yosemite or newer. Visit the Microsoft Windows lifecycle fact sheet or Mac OS X Support overview for their latest operating system information. Browser Google Chrome 56.0.2924, Microsoft Edge (64-bit), Mozilla Firefox 52 (64-bit) or Safari 8 or newer. For more information about different browsers or to download a new one, visit whatismybrowser.com . Ethernet For maximum speeds of 1 Gbps to 1.2 Gbps, your desktop or laptop will need a 1G copper Ethernet interface and a 1G Ethernet adapter. These will need to be paired with a Cat5e (or better) Ethernet cable. For maximum speeds of 2 Gbps on a single computer, you will need the following: A desktop computer with available PCIe expansion slot. A 10G PCIe network interface controller (NIC) adapter with small form-factor pluggable (SFP) cage. A 10G enhanced, 850nm multimode fiber (MMF), small form-factor pluggable (SFP) transceiver. A multimode fiber (MMF) LC patch cable. For maximum speeds of 2 Gbps on more than one of your devices connected to the fiber handoff, you will need a compatible router or firewall with throughput of 2 Gbps (or greater) along with the following: A 10G router or firewall. A 10G 850nm multimode fiber (MMF), small form-factor pluggable (SFP) transceiver. All of the additional equipment from the single computer requirements for each connected computer to reach 2 Gbps from the router or firewall. The actual number of devices and configurations supported varies by the brand and model of the router or firewall. To achieve maximum speeds of 2 Gbps over a longer Ethernet cable lengths, Cat6 or Cat6a cables are required. CPU/processor Quad-Core Intel Core i7 (or faster) processor, 16 GB of RAM and requires a solid-state drive (SSD).
+
+Xfinity Internet minimum system requirements — For speeds up to 1.2 Gigabits per second Operating system Windows 10 (64 bit) or newer or Mac OSX 10.8 or newer. Visit the Microsoft Windows lifecycle fact sheet or Mac OS X Support overview for their latest operating system information. Browser Google Chrome 56.0.2924, Microsoft Edge (64-bit), Mozilla Firefox 52 (64-bit) or Safari 8 or newer. For more information about different browsers or to download a new one, visit whatismybrowser.com . Ethernet cable Cat5e or Cat6 Ethernet cable. Note: Due to Ethernet overhead, actual download speeds are limited to 940 Mbps over a hardwired connection. Ethernet 10/100/1000 Gigabit Ethernet interface or adapter for wired connection CPU/processor Intel Dual Core i5 or better or AMD Ryzen 5 or better Memory 8 GB of RAM minimum Hard drive/space 64 GB or larger SSD recommended to achieve maximum download speeds
+
+Xfinity Internet minimum system requirements — For speeds up to 400Mbps Operating system Microsoft mainstream-supported Windows operating system or an Apple-supported OS X operating system. Visit the Microsoft Windows lifecycle fact sheet or Mac OS X Support overview for their latest operating system information. Browser Recent version of Chrome, Firefox or Safari. For more information about different browsers or to download a new one, visit whatismybrowser.com . Ethernet cable Cat5e or Cat6 Ethernet cable to facilitate your wired connection. Ethernet/processor Speeds up to 25 Mbps: 10/100 Fast Ethernet interface or adapter for wired connection. Speeds up to 75 Mbps: 10/100 Fast Ethernet interface or adapter for wired connection. Intel Core i5 (or faster) processor. Speeds up to 400 Mbps: 10/100/1000 Gigabit Ethernet interface or adapter. Intel Core i5 (or faster) processor.
+
+Gigabit speed expectations
+
+Gigabit Internet service by Xfinity delivers WiFi speeds that are faster than some of today's most advanced smartphones, laptops and tablets are capable of running.
+
+Speed tips
+
+If you have hardware, software and related equipment configurations that can connect to the Internet but that are different from the above recommendations, they will still work with your Xfinity Internet service; however, our testing has shown that these recommendations will work best to achieve your provisioned broadband speed.
+
+If you aren't experiencing the speeds you expect, remember to test using a hardwired connection to the internet. Also, make sure you are not in the process of downloading or uploading anything, close all programs using the Internet and power off any other devices that are sharing your home network.
+
+Remember, there are a number of external factors that may limit your speed; as a result, actual speeds may vary. For the best performance, contact your device manufacturer or software provider to learn about required upgrades, configuration updates or to find troubleshooting guides.
+
+For more information, check out the FAQs under My Results and Speed Factors on our Speed Test site.
+
+WiFi speed tips
+
+For wireless connections, you can improve your WiFi speed by positioning your Wireless Gateway centrally in order for it to broadcast its strongest signal. For better WiFi performance see these tips.
+
+Additional information
+
+Visit our Online Support Center to find common solutions.
+
+The easiest way to activate, manage, and troubleshoot your Xfinity experience is with the Xfinity app! Get 24/7 real-time support, pay your bill, view plan details, get outage updates, and more. Download the free Xfinity app, or scan the QR code with your smartphone.
+
+Need additional support? Ask Xfinity Assistant.
+
+Was this page helpful?
+
+Recommended Articles
+
+Check your computer's performance Get the most from your Xfinity Gigabit Internet service Managing and optimizing your in-home WiFi network Overview of Xfinity Gateways Learn about our network management practices Use approved third-party equipment for Xfinity Internet and Xfinity Voice Gigabit x10 system requirements for Xfinity Internet

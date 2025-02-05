@@ -1,0 +1,77 @@
+URL: https://www.xfinity.com/support/articles/voice-unwanted-calls
+
+Xfinity Voice features that control nuisance and spam calls
+
+Each year, the Federal Communications Commission (FCC) receives thousands of complaints related to unwanted phone calls, which we refer to as Nuisance Calls. These calls are disruptive, frustrating, and even dangerous — sometimes they try to get personal information and create scams that cause financial harm.
+
+How to control unwanted calls
+
+We understand that the fewer unwanted phone calls you receive, the better. That’s why we offer a variety of tools and features to help combat them. Get started with Spam Blocker, where control is put into your hands as you choose which types of call to block and which to send to voicemail, helping put an end to the nuisance calls in your life.
+
+These unwanted calls can fall into one or more of the following categories:
+
+Robocalls — Automated calls playing a pre-recorded message.
+
+Spam calls — Mass calls you may receive about information you haven’t expressed interest in receiving.
+
+Spoofed calls — Calls from a caller whose name and/or telephone number has been altered so that misleading information shows up on your caller ID. This includes neighbor spoofing, where the caller changes the calling number to match the area code and part of your phone number.
+
+Scam calls — Calls made to intentionally commit a crime, like identity theft or other fraud.
+
+Anonymous calls — When the caller’s identification information is blocked entirely.
+
+For additional information, visit the FCC Scam Glossary. The FCC describes the different types of robocall scams, spoofing scams, and more information about phone call-related consumer fraud.
+
+We have many ways to help you control unwanted calls (and they’re available to Xfinity Voice customers at no additional charge):
+
+Spam Blocker — Identify and stop unwanted calls with our new spam blocker, so you only talk to the people who matter.
+
+Learn more about Spam Blocker.
+
+Edge Blocking — We automatically block the following types of calls to residential voice customers at no additional charge:
+
+Do Not Originate — Calls where the owner of the number has specified that the number is only used for incoming calls and not outgoing calls.
+
+This includes certain inbound-only telephone numbers used by the IRS and the Social Security Administration.
+
+Invalid — Phone numbers that don’t have the proper format or that have area codes that don’t exist.
+
+Anonymous Call Rejection — An opt-out feature (enabled by default) that rejects phone calls if the caller has blocked their phone number and name.
+
+The caller will hear a message instructing them to unblock their information and call back.
+
+Learn more about Anonymous Call Rejection.
+
+Call Screening — You can create a list of up to 200 phone numbers from which you don’t want to receive calls.
+
+Callers on the list will receive an announcement that you aren't available.
+
+Learn more about Call Screening.
+
+Caller ID — See the number that is calling you before you answer with Caller ID.
+
+Learn about Caller ID.
+
+We’ve also enhanced our Caller ID feature, so it now displays Verified (or the letter V) next to the caller’s name for certain calls, where the caller’s phone provider has verified that the call is coming from a non-spoofed telephone number.
+
+This verification will also appear on your call log, voicemail, Xfinity Connect Portal, and X1 TV screens when applicable.
+
+Learn about Verified Caller ID.
+
+You can also register your telephone number(s) with the National Do Not Call Registry to help decrease Nuisance Calls.
+
+For more information on the National Do Not Call Registry visit, donotcall.gov.
+
+Additional information
+
+Visit our Online Support Center to find common solutions.
+
+The easiest way to activate, manage, and troubleshoot your Xfinity experience is with the Xfinity app! Get 24/7 real-time support, pay your bill, view plan details, get outage updates, and more. Download the free Xfinity app, or scan the QR code with your smartphone.
+
+Need additional support? Ask Xfinity Assistant.
+
+Was this page helpful?
+
+Recommended Articles
+
+Xfinity Voice Spam Blocker controls and settings Xfinity Voice Spam Blocker overview How to stop unsolicited robocalls to your home Use the Call Screening feature with Xfinity Voice Use the Anonymous Call Rejection feature with Xfinity Voice How do I block robocalls? Call Types That can be Blocked with Xfinity Voice

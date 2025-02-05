@@ -1,0 +1,217 @@
+URL: https://www.xfinity.com/support/articles/xfinity-on-demand-purchases
+
+Xfinity On Demand purchases — Equipment requirements and FAQs
+
+Xfinity On Demand purchases lets you to buy movies and TV shows. With Xfinity On Demand purchases, you can:
+
+Buy movies and TV shows on your X1 TV Box, the Xfinity Stream website (xfinity.com/stream) and the Xfinity Stream app for Android and Roku devices.
+
+Stream movies and TV shows on your PC or Mac at xfinity.com/stream.
+
+Watch movies and TV shows on your TV Box.
+
+Equipment requirements
+
+TV Box
+
+You must have an Xfinity X1 TV Box enabled for Xfinity On Demand.
+
+Viewing purchases — PC and Mac
+
+PC
+
+A processor of 500 MHz or faster
+
+128 MB or more of RAM
+
+Windows XP SP2, Windows Vista 2008 or Windows Server 2008
+
+1 Mbps or more broadband internet connection speed
+
+64 MB or more of video memory
+
+16-bit sound card
+
+800 x 600 or greater screen resolution
+
+Microsoft Silverlight must be installed.
+
+For HD playback, you'll need an HDCP-compliant device.
+
+Mac
+
+1.83 GHz Intel Core Duo or faster processor
+
+128 MB or more of RAM
+
+Mac OS 10.4.8 or higher
+
+1 Mbps or higher broadband internet connection speed
+
+64 MB or more of video memory
+
+16-bit sound card
+
+800 x 600 or greater screen resolution
+
+Microsoft Silverlight must be installed.
+
+Browser
+
+For the best viewing experience, the following browsers are supported:
+
+Safari 5
+
+Firefox 3.6 (or higher)
+
+Chrome 12
+
+Mobile — Android and Apple devices
+
+For Android devices, Android 2.3.3 or higher is required.
+
+For Apple devices, iOS 6.0 or later is required.
+
+It's compatible with iPhone, iPad and iPod Touch.
+
+This app is optimized for iPhone 5.
+
+Note: You can view purchased or rented content on your Xfinity Stream app, but you can’t purchase or rent content directly on the app using your apple device. For purchases, you must use xfinity.com/stream.
+
+Learn more about equipment requirements on renting and purchasing content directly from xfinity.com/stream.
+
+FAQs
+
+How do I watch movies or shows that I've purchased? When you buy a movie or TV show from your TV Box or Xfinity Stream, you can view your purchased title in multiple ways:
+
+You can watch on your TV:
+
+On your Xfinity X1 TV Box, from the main menu, go to Saved > Purchases, then select the title you want to watch.
+
+You can stream them on the Xfinity Stream app and web portal.
+
+From the main menu, your purchases will appear under Saved.
+
+You can download purchases using the Xfinity Stream app.
+
+Downloaded titles can even be viewed when you're not connected to the internet.
+
+To download, select your title from your purchases list and then click Download.
+
+We recommend that you download purchased titles shortly after purchase.
+
+Where can I find titles to purchase? You can purchase content on your Xfinity X1 TV Box and through the Xfinity Stream app (excludes season passes). Go to the Xfinity On Demand menu. Content available for purchase can be found in the Movies to Own and TV Shows to Own sections.
+
+How do I purchase content? You can purchase content on your Xfinity X1 TV Box and through the Xfinity Stream app or portal.
+
+From your TV Box:
+
+Select a title that says "Purchase" in the description and press the Buy button.
+
+You'll be asked to confirm your order. If you confirm, your new movie will be available to watch anytime in the Purchases folder on your TV Box and on multiple devices.
+
+The charge for the purchase will appear on your next Xfinity bill.
+
+From the Xfinity Stream app or portal (xfinity.com/stream):
+
+Go to Browse > Movies.
+
+Select the title you wish you purchase, then select Rent/Buy.
+
+Choose to Rent or Buy in SD or HD.
+
+You'll be asked to confirm your order.
+
+If you confirm, your new movie will be available to watch anytime in your Purchases folder.
+
+You'll see the charge for the purchase on your next Xfinity bill.
+
+How can I tell if a title is available to purchase or just available for rent? On the Xfinity On Demand menu on your TV, titles that you can purchase will have a description that begins with the word Buy. In the list view of titles, these shows and movies will have the word Buy next to the title.
+
+Why are some movie titles only available for purchase and not for rent? Availability of titles for purchase or for rental on Xfinity On Demand is subject to content agreements. Some new releases will be available for purchase only several weeks prior to the rental or DVD release date (varies by title). For example, Despicable Me 2 was available for purchase four weeks before the rental release date and Fast and Furious 6 was available for purchase three weeks before the rental release date, while other titles will be available for purchase two weeks before the rental or DVD release date.
+
+Why are some TV show episodes and seasons only available for purchase and not available on Xfinity On Demand? Availability of titles for purchase or to watch for free on Xfinity On Demand is subject to content agreements. Most current TV show episodes and seasons are typically available on Xfinity On Demand for free if the particular channel is part of your subscription (e.g., the most recent season of NBC's The Voice may be available for you to watch On Demand). The TV show episodes available for purchase are usually from previous seasons.
+
+Why can’t I buy a Season Pass on Xfinity Stream? Currently, Season Passes for full seasons of TV shows can only be purchased from your TV — but you can still access your seasons on the Xfinity Stream app!
+
+Can I return my Xfinity purchased movie or TV show? Movies and TV shows are not returnable after purchase. If you're having difficulty accessing, watching or downloading your content, please contact us.
+
+Why does my purchased content say I have less than 72 hours of my rental remaining? When you watch a piece of content you purchased, that content will appear in the Recently Viewed folder for 72 hours. The counter on the screen lets you know how long the title will remain in Recently Viewed. Your title will remain in your Purchases folder after the counter expires. You can access it from the Purchases folder whenever you want.
+
+Can I transfer my downloaded content to another device? Unfortunately, purchased content that has been downloaded on your mobile device can't be transferred to another device.
+
+What happens to my purchases if I disconnect Xfinity service? Viewing purchased titles on your TV requires a subscription to Xfinity TV service with access to Xfinity On Demand. If you disconnect all of your Xfinity services, you can continue to watch purchased titles using the Xfinity Stream portal (xfinity.com/stream) and the Xfinity Stream app.
+
+You'll need your primary Xfinity ID and password to access your purchases online or to add a mobile device. (Secondary Xfinity IDs will no longer work.)
+
+If you previously enabled Parental Controls, you'll need to set them up again after you log in the first time after your disconnection.
+
+If you've forgotten your primary Xfinity ID, contact us to recover it.
+
+If you've forgotten your password, you can reset your password by entering your primary Xfinity ID and following the steps provided at this link: login.comcast.net/myaccount/reset.
+
+For any issues related to playback or download on the Xfinity Stream portal or Xfinity Stream app after you have disconnected your Xfinity services, please contact us.
+
+If I am currently an Xfinity TV customer and move, but transfer my Xfinity TV service to my new address, can I continue to access my purchases? Xfinity TV customers who move but transfer Xfinity TV service to their new address can continue to access their purchases on their Xfinity TV Box through Xfinity On Demand and their favorite devices. Once you've completed the move or transfer process (online or by speaking to a Move Specialist), the movies and TV shows that you purchased through Xfinity should automatically be transferred to your new address.
+
+If you didn't go through the move or transfer process, but disconnected your service and signed up for Xfinity service again at your new address, contact us to ask to transfer your purchases to your new account within 60 days of disconnecting from your previous account. If you don't complete this process within 60 days, your purchases may be deleted.
+
+How long does it take for a movie I purchased on my TV to appear in the Xfinity Stream portal and in the Xfinity Stream app and vice versa? It may take up to 30 minutes for a title to appear on devices other than the one where you made the purchase, but most purchases should appear much quicker.
+
+Why is a title I purchased on my TV Box not appearing in the Purchases section of my Xfinity Stream portal or in the Xfinity Stream app? There may be a few reasons a title you purchased on the TV Box is not appearing on other devices:
+
+Parental controls: If you have online parental controls set, titles that you purchased on the TV Box may not appear on other devices if they are below the control threshold.
+
+Sync time: It may take up to 30 minutes for a title to appear on devices other than the one you where you made the purchase.
+
+What if I buy an HD movie or show but don't have a TV Box that supports HD content? If you purchase an HD title, you'll be able to stream either the HD version or the SD version on your TV.
+
+Where can I watch HD titles?
+
+If you purchase HD titles, you may have the ability to stream either the HD version or the SD version using an Xfinity HD TV Box connected to an HD TV.
+
+You may see both the HD version as well as the SD version of titles that you purchased in HD in your Purchases menu.
+
+If you buy an HD movie before the SD version is available, you may receive the SD version once it becomes available to customers.
+
+You can also stream HD titles on HDCP-compliant computers and mobile devices.
+
+What do I do if my mobile device or computer is lost or stolen? Please contact us and let the representative know that your device should no longer be linked to your account.
+
+How many streams and downloads of Xfinity purchased content can I access? Up to three different devices (such as computers, mobile phones or tablets) can stream your purchased titles or can download purchased movies and TV shows at any given time. A maximum of three devices can be registered to your account at once.
+
+Pre-order FAQs
+
+If I buy a pre-order Season Pass, when should I expect to see new episodes in my Purchases folder? After buying a pre-order television Season Pass, you should expect new episodes in your Purchases folder the day after each episode airs.
+
+When will I be billed for a pre-order Season Pass? You are billed the full price of the season upon the delivery of the season’s first episode.
+
+Can I cancel pre-orders? You can cancel your pre-orders prior to the program being delivered to your Purchases folder. You can cancel from the program’s Detail page and within the Purchases folder.
+
+Can I get a refund for a Season Pass after the first episode aired? After you purchase a Season Pass and get the season’s first episode, you can’t get a refund.
+
+Parental controls FAQs
+
+How do I prevent people in my household from watching my Xfinity On Demand purchases? To prevent people in your household from seeing your purchases, we recommend setting parental controls on your devices:
+
+TV Box: To prevent people in your household from watching movies you have purchased, you can set up a parental control PIN.
+
+PC and mobile: You can prevent household members from seeing your purchases on the computer and on mobile devices by setting online parental controls.
+
+How do I prevent people in my household from purchasing or renting shows or movies? Set a Purchase PIN to prevent household members from making purchases or rentals. Learn more by reading instructions on setting up a purchase PIN on your X1 TV Box.
+
+How do parental controls work for Xfinity purchases online? If you have online parental controls set, titles that are below your control setting won't show up in your Purchases folder online or on the Xfinity Stream app. To make blocked titles appear, you'll have to change your online parental controls settings. Once you change your settings, all titles will show in the Purchases section and be available for playback.
+
+Support FAQs
+
+Who do I contact for help with a billing question related to a purchase made on a TV through Xfinity On Demand? For any issues related to purchases made from a TV or TV Box, please contact us.
+
+Who do I contact for help with TV technical or playback issues related to purchased titles? For any technical issues related to a TV Box, please contact us.
+
+Note: Xfinity On Demand services aren't available in all areas. If you live in an area that doesn't offer Xfinity On Demand or have a TV Box that does not support it, you won't have access to Xfinity On Demand content online through the Xfinity Stream portal (xfinity.com/stream) or the Xfinity Stream app.
+
+Was this page helpful?
+
+Recommended Articles
+
+Rent or purchase content from Xfinity Stream Watch TV shows and movies with Xfinity On Demand Xfinity On Demand purchase and rental credit Movies Anywhere service Xfinity On Demand purchases — Pre-order a TV show or movie Get started with the Xfinity Stream portal Xfinity On Demand content online and on mobile devices availability FAQs

@@ -1,0 +1,80 @@
+URL: https://www.xfinity.com/terms/license
+
+
+Software License Agreement
+
+Comcast Software License Agreement Archive (Previous Versions)
+
+Effective Date: February 13, 2024
+
+This software license agreement (the “License Agreement”) applies to you if you download, install, or use any Xfinity- or Comcast-branded products or software, any software that links to this License Agreement, and any associated documentation ("Software"). Software is provided by Comcast Cable Communications, LLC, and its subsidiaries and affiliates (“Comcast,” “we,” “us,” or “our”).
+
+If you download, install, or use Software, you agree to be bound by this License Agreement. You enter into this License Agreement for yourself, and on behalf of all persons you permit to use the Software (“you” or “your”). If you do not agree to this License Agreement, do not download, install, or use any Software. You must uninstall the Software if, after download, you no longer agree to the terms of this License Agreement.
+
+We determine which features and functionality to make available through the Software in our sole discretion. We may change or update Software and any features and functionalities (in whole or in part) at any time without notice.
+
+1. Grant of a Limited License
+
+We grant you a limited, revocable, non-transferable, non-assignable, non-sublicensable, and non-exclusive license to download, install, and use Software, without modification, on any computer, mobile device, or TV-connected device that you own. This license is subject to your compliance with this License Agreement. You may only use Software in accordance with this License Agreement and for the purpose of accessing and using certain features and functionality.
+
+Certain Software requires an Xfinity ID and/or a valid email address and password. If you are not familiar with these terms, please review our Glossary.
+
+2. No Ownership Rights
+
+You do not own any Software. You have only the limited license granted above to use Software so long as this License Agreement remains in effect. We (or our licensors) retain all intellectual property rights in Software. Any use of Software by any other person, business, corporation, government organization, or any other entity, except as set forth in this License Agreement is forbidden and is a violation of this License Agreement.
+
+3. Third-Party Software
+
+Certain Software includes programs that we have licensed from third parties. This License Agreement applies to each third-party application or program in the Software. The applicable third-party licensors own these third-party software components. We do not make any representations or warranties about the operation or availability of third-party software. Neither we, nor our licensors, will be liable for any unavailability or removal of third-party software.
+
+4. Restrictions and Requirements
+
+You may not:
+
+distribute or make any Software available over a public network where it could be used by multiple devices at the same time;
+
+publish, display, disclose, rent, lease, modify, loan, distribute, or create derivative works based on any Software (in whole or in part);
+
+reverse engineer, decompile, translate, adapt, disassemble, reduce any Software to human readable form, or attempt to recreate the source code from the object code for any Software;
+
+transmit Software over any public network or between any devices (although you may use Software to make transmissions of other materials);
+
+make any third-party software contained in Software a stand-alone product;
+
+take any action that will infringe on the intellectual property or other proprietary rights of Comcast or any third-party software provider;
+
+sublicense, rent, lease, or assign any Software (although you may transfer the Software to other computers or mobile devices you own as long as you use it on the number of devices we authorize and in accordance with the terms of this License Agreement);
+
+remove any proprietary notices, marks, or labels on any Software;
+
+circumvent or attempt to circumvent any measures that control access to, or use of the rights in any content, file, service, or other work protected by any copyright laws; or
+
+export, import, or re-export any Software in violation of any applicable law, rule, or regulation.
+
+You may only use Software in compliance with all applicable laws, including applicable restrictions concerning copyright and other intellectual property rights. You may only use Software for your
+
+private, non-commercial use and may not charge or receive any fee for use of any Software.
+
+5. Privacy
+
+To understand how we collect and use information through the Software, please read our privacy policy, available at www.xfinity.com/privacy/policy.
+
+6. Open Source
+
+Certain Software may contain open source software, as described here. Open source software is subject to additional terms and conditions. If there is any conflict between the terms of this License Agreement and the terms of an open source software license, then the terms of the open source software license will apply, but only for that open source software.
+
+7. Term and Termination
+
+This License Agreement is effective when you first download, install, or use Software. This License Agreement remains in effect until it is terminated. You may terminate this License Agreement at any time by destroying or returning to us all copies of Software that you possess. We may terminate this License Agreement immediately if you violate any of its terms. Otherwise, this License Agreement will terminate upon termination of your Xfinity Residential Services Agreement (for Xfinity subscribers), or the Web Services Terms of Service. Upon termination, you agree to destroy or return to us all copies of any Software. If we request, you will certify in writing that you have destroyed all known copies, including backup copies of Software. All provisions relating to proprietary rights shall survive the termination of this License Agreement.
+
+8. Additional Terms
+
+If you are an Xfinity subscriber, this License Agreement is incorporated into the Xfinity Residential Services Agreement. Your download, installation, and use of Software is subject to the provisions of the Xfinity Residential Services Agreement, including, without limitation, the limited warranties, limitation of liability, indemnification, binding arbitration, and general legal provisions. If you are not an Xfinity subscriber, the sections on limited warranties, limitation of liability, indemnification, binding arbitration, and general legal terms from the Web Services Terms of Service are incorporated herein by reference. These provisions will apply to download, installation, and use of Software by non-subscribers. Additional terms and conditions may also apply to use of certain features of Software, such as paperless billing and automatic payment services.
+
+9. About These Terms
+
+In the event of any conflict between this License Agreement and either the Xfinity Residential Services Agreement or the Web Services Terms of Service, the terms of this License Agreement shall control, but only with respect to the conflicting provisions and your use of Software.
+
+We may decide not to enforce our rights or exercise a remedy under this License Agreement in a specific instance. This will not be a waiver of our rights or remedies. Those rights or remedies will still be available to us. No waiver will be effective unless it is made in writing and signed by an authorized representative of Comcast.
+
+We may change this License Agreement from time to time with or without notice. We will use reasonable efforts to try to provide notice of modifications to this License Agreement. By continuing to use Software after we post changes to this License Agreement, you accept and agree to the License Agreement as modified.

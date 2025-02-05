@@ -1,0 +1,82 @@
+URL: https://www.xfinity.com/terms/opensource
+
+
+Open Source Software
+
+The software provided to you in connection with your Xfinity TV, Internet, Voice, or Home Security services, including Comcast-branded mobile applications, like the Xfinity TV app, may include the following open source software. Some of these open source components are licensed under the Apache 2.0 license, a copy of which is available here: http://www.apache.org/licenses/LICENSE-2.0.html.
+
+Mobile Applications:
+
+Xfinity WiFi Hotspots Mobile Apps
+
+Xfinity Mobile Voicemail
+
+Xfinity My Account Android
+
+Xfinity My Account iOS
+
+Xfinity Stream Android
+
+Xfinity Stream iOS
+
+Xfinity TV Remote Android
+
+Xfinity TV Remote iOS
+
+Xfinity Android
+
+Xfinity iOS
+
+Xfinity Home Android
+
+Xfinity Home iOS
+
+Xfinity Home Wholesale Mobile Apps
+
+Xfinity Stream Flex
+
+Chromecast
+
+Xfinity Authenticator Apps: Open source disclosures for the Xfinity Authenticator app can be accessed from the menu within the app.
+
+TV:
+
+Open Source Software in TV Boxes
+
+Internet:
+
+Open Source Software in Gateways
+
+Home:
+
+Cameras
+
+iCamera2
+
+iCamera2-c
+
+iCamera1000
+
+OC810
+
+RC8021
+
+xCamera
+
+xCamera2
+
+XW3
+
+XW4
+
+Touchscreen Controllers
+
+TCA200
+
+TCA203
+
+TCA300
+
+TCA301
+
+Thermostat

@@ -1,0 +1,117 @@
+URL: https://www.xfinity.com/Corporate/Customers/Policies/additionalterms
+
+ADDITIONAL TERMS FOR XFINITY INTERNET AND VOICE SERVICES
+
+Effective Date: December 4, 2023
+
+These additional terms (“Additional Terms”) and any applicable tariffs, service guides, and posted policies and procedures apply to Xfinity Internet (also, the “Internet Service”) and Xfinity Voice (“Voice”) services. Xfinity Internet and Voice are “Services,” as defined in the Xfinity Residential Services Agreement available at https://www.xfinity.com/Corporate/Customers/Policies/SubscriberAgreement (the “Agreement”). Xfinity Internet and Voice are provided by operating subsidiaries or affiliates of Comcast Cable Communications, LLC (collectively, “Comcast,” “we,” “us,” or “our”).
+
+You accept these Additional Terms by activating the Services, using the Services, or continuing to use the Services after we provide notice of a change to these Additional Terms, or otherwise indicating your acceptance of the Services. You may not modify these Additional Terms by making any typed, handwritten, or other changes.
+
+These Additional Terms are incorporated into the Agreement by reference. If there is any conflict between the Agreement and these Additional Terms, these Additional Terms will govern with respect to Voice and the Internet Service. Capitalized words that are not defined in these Additional Terms will have the meaning provided in the Agreement.
+
+Additional Terms for Xfinity Internet
+
+1. Data Consumption Threshold
+
+We apply a monthly data consumption threshold to Xfinity Internet accounts. We retain the right to trial or adopt different data consumption thresholds or other usage plans for the Internet Service at any time. If we do this we will notify you. You can learn about the data plan that applies in your area by going to https://dataplan.xfinity.com/. You can view your current data usage at any time by logging into your Xfinity.com account and viewing the data usage meter at https://customer.xfinity.com/#/devices#usage. You can also use the Xfinity My Account mobile app to view your data usage.
+
+2. Intellectual Property Rights
+
+You do not own network or online addresses we provide to you
+
+When you use the Internet Service, we may provide you with certain network or online addresses, including Internet Protocol (“IP”) addresses, email addresses, and web addresses. You do not own these addresses or have intellectual property or other rights in them. We may modify, change, or delete these addresses (in whole or in part) at any time without notice or compensation to you. If you terminate your Internet Service account, we may permanently delete or remove any or all addresses associated with your account.
+
+You give us certain rights to use your content
+
+You may publish, transmit, or distribute certain materials, information, feedback, suggestions, ideas, submissions, or other content submitted or posted by you using the Internet Service (“User Content”). User Content must comply with the provisions of the Agreement and these Additional Terms. We do not claim ownership of User Content, but you authorize us (and our agents and suppliers) to reproduce, publish, distribute, and display User Content worldwide. You represent and warrant that you have the right to provide this authorization to us. You also agree that third parties may copy, republish, or distribute User Content. You agree to indemnify, defend, and hold us (and our suppliers) harmless from and against any harm resulting from User Content.
+
+We have certain intellectual property rights
+
+Title in, and intellectual property rights to, the Internet Service are owned by us and other third parties. These intellectual property rights are protected by copyright laws and treaties in the U.S. and throughout the world. You may not copy, redistribute, resell, or publish any part of the Internet Service without prior, express, written consent from us, or from the owner of the material.
+
+Third parties may own content and material available through the Internet
+
+Specific additional terms and conditions may apply to your use of third-party content or material available on the Internet. You should read the applicable terms and conditions to learn how they apply to you.
+
+3. Additional Limitations of Liability for Xfinity Internet
+
+Our liability for Customer Equipment is limited. You may use your own “Customer Equipment” (as defined in Section 6(a) of the Agreement) in connection with the Internet Service. We may need to open, update, access, or use your Customer Equipment in connection with installing, updating or repairing the Internet Service, and our liability for these activities is limited as described in Section 11 of the Agreement.
+
+Our liability for third-party access to Customer Equipment is limited. Others on the Internet may use certain applications to access your Customer Equipment. For example, third parties may use applications such as FTP (File Transfer Protocol) or HTTP (Hyper Text Transfer Protocol), phishing campaigns, or malicious software to access your Customer Equipment. You are solely responsible for the security of your stored data, Customer Equipment, and any other equipment you choose to use. NEITHER WE NOR ANY OF OUR AFFILIATES, SUPPLIERS, EMPLOYEES, AGENTS, CONTRACTORS, DISTRIBUTORS, LICENSORS OR BUSINESS PARTNERS (“RELEASED ENTITIES,” ALSO AS DEFINED IN SECTION 10 OF THE AGREEMENT) SHALL HAVE ANY LIABILITY WHATSOEVER RELATED TO THIRD-PARTY ACCESS TO YOUR CUSTOMER EQUIPMENT OR OTHER EQUIPMENT (INCLUDING, WITHOUT LIMITATION, USE OF FTP/HTTP APPLICATIONS, PHISHING CAMPAIGNS, OR MALICIOUS SOFTWARE).
+
+Our liability for content and material available on Xfinity Internet is limited. Some content and material available online may be offensive to you or unsuitable for children. Certain content may violate applicable laws, or may violate your protected rights or those of others. Anyone who accesses such content does so at his or her own risk. WE AND THE RELEASED ENTITIES SHALL HAVE NO RESPONSIBILITY OR LIABILITY WHATSOEVER RELATED TO SUCH CONTENT OR MATERIAL AVAILABLE THROUGH THE INTERNET. Questions or complaints regarding content or material available through the Internet should be addressed to its provider. We make no representations or warranties regarding third-party software programs that claim to restrict access to explicit or other objectionable content on the Internet.
+
+Our liability for eavesdropping is limited. Public areas of the Internet are shared. Other people or entities may be able to eavesdrop, or access or monitor your use of the Internet. You post, store, transmit, or disseminate any sensitive or confidential information on the Internet at your own risk. WE AND THE RELEASED ENTITIES SHALL HAVE NO LIABILITY WHATSOEVER RELATED TO EAVESDROPPING ON THE INTERNET. We make no representations or warranties regarding software programs that claim to be capable of encryption or anonymization.
+
+Our liability for available bandwidth is limited. We determine and have discretion over the nature and extent of our facilities allocated to support the Internet Service, including the amount of available bandwidth.
+
+4. Wireless Xfinity Internet Access
+
+You may access and use the Internet Service wirelessly (“Xfinity WiFi”) through our Xfinity Internet WiFi Home Hotspot (“HHS”), our WiFi access points, and WiFi access points of certain affiliated companies. If you subscribe to the Xfinity Performance Internet Service or above, you may access Xfinity WiFi at no additional charge using your Xfinity user ID log-in and password. If you subscribe at a level below Xfinity Performance Internet Service, you may be able to access Xfinity WiFi on a trial, sponsored, or pay-per-use basis, subject to additional terms.
+
+If you use an Xfinity WiFi access point owned or operated by Comcast to access the Internet Service, including an HHS, your use will be subject to these Additional Terms and the Agreement. Your use of Xfinity WiFi will also be subject to the Acceptable Use Policy for Xfinity Internet, available here: https://www.xfinity.com/Corporate/Customers/Policies/HighSpeedInternetAUP. If you use an access point owned or operated by one of our affiliated companies to access the Internet Service, you may be subject to certain additional terms. These terms include Section 21 of our Web Services Terms, available here: https://my.xfinity.com/terms/web/. Acceptable use policies set by our affiliates may also apply.
+
+Your use of Xfinity WiFi indicates your acceptance of the applicable terms. If you do not accept the applicable terms, you should not use Xfinity WiFi. Xfinity WiFi is not available in all locations, and availability is subject to change without notice.
+
+Additional Terms for Xfinity Voice
+
+5. Charges and Billing
+
+You may pay a flat monthly fee for your calling plan. However, your flat monthly fee may not cover certain calls billed on a per-call basis or a measured basis. For example, we bill operator services on a per-call basis, and we bill certain international calls on a measured basis. You can log into your account on xfinity.com and click on “Billing” for more information on per-call charges and the timing of measured-call charges. Our paper bills for Voice contain only a summary of charges. Detailed information is available for a limited period at a password-protected section of our website. You may call 1-800-XFINITY for a paper copy of outbound toll call records related to your most recent bill. There may be an additional charge for these copies, except where prohibited by law.
+
+6. Use of Xfinity Voice and Battery Backups
+
+You must use Xfinity Voice and any required Xfinity Equipment at your Premises (as defined in Section 4(b) of the Agreement). To use Voice, you will be required to use a Voice-capable modem (“Modem”). Voice and Modems must be used at your Premises, although you may access certain online features and mobile applications from other locations. If you use a Modem or Voice at another location, Voice may not function properly. If you use a Modem or Voice at another location without notifying us, you do so in violation of the Agreement and at your own risk. 911 and Enhanced 911 services may also fail to function or may function improperly if you move a Modem or use Voice at another location. See Section 8 below for more information on 911 and Enhanced 911 services.
+
+You must use Xfinity Voice in a manner consistent with normal residential calling patterns. You agree not to use Voice for autodialing, continuous or extensive call forwarding, telemarketing, fax broadcasting, fax blasting, or other activities inconsistent with normal residential calling patterns. If your usage charges for Voice exceed typical residential usage charges, we may require you to make advance payments, restrict your access, or establish a credit limit for Voice and its features. We may offset any of your advance payments for Voice against any unpaid balance on your account. If you exceed your credit limit, we have the right to suspend Voice and require payment for charges incurred by your account. For more information on acceptable use of Voice, see the Acceptable Use Policy for Xfinity Voice Residential Voice Services, available at https://www.xfinity.com/Corporate/Customers/Policies/VoiceServices. We may terminate or modify Services or assess additional charges for each month in which you violate the Agreement, these Additional Terms, or any applicable acceptable use policies.
+
+Certain Modems are equipped with or connect to a backup battery. This backup battery can support a Modem during a power outage to your home, if our network remains available. The effectiveness of the backup battery and the availability of Voice during a power outage depend on multiple factors, including proper installation of the backup battery, its condition and age, and how much you use Voice during the outage. We cannot guarantee that the backup battery will perform or function properly. The backup battery does not power cordless phones, telecommunications devices used to assist customers with disabilities, or other equipment connected to the telephone line that requires electricity from your Premises.
+
+You will not be able to use Xfinity Voice under certain circumstances. For example, you will not be able to use Voice if our network or facilities are not operating. If your Internet connection is interrupted, you will not be able to use online features of Voice (where available). You will not be able to use Voice or a Modem without electrical power if the Modem does not have a functioning backup battery. We cannot guarantee the performance of any backup battery. If the backup battery does not provide power, Voice will not function until normal power is restored. We do not support priority restoration of Voice. If your account is suspended or terminated, we may disable Voice (including 911 and Enhanced 911 services) and available online features. CORDLESS PHONES USE THE ELECTRICAL POWER IN YOUR HOME. IF THERE IS AN ELECTRICAL POWER OUTAGE, THE CORDLESS PHONE WILL CEASE TO OPERATE DURING THE OUTAGE, AND YOU WILL NOT BE ABLE TO USE VOICE ON THE CORDLESS PHONE.
+
+You are solely responsible for “Inside Wiring” (as defined in Section 6(c) of the Agreement). You may use Voice with your telephone Inside Wiring, as long as we have reasonable access to it and you have the right to give us access to it. We recommend that our technician install any Modem connected to your telephone Inside Wiring. To use your telephone Inside Wiring, we must disconnect it from the network of your existing telephone provider, which may disable any existing services you receive. You may damage the Modem if you connect it to your telephone Inside Wiring without first disconnecting the Inside Wiring from any existing telephone provider’s network. Voice may not operate properly if the Modem is damaged or incorrectly connected.
+
+7. Unauthorized Use of Xfinity Voice
+
+You are liable for all authorized and unauthorized use of Voice at your Premises. You agree to notify us immediately in writing, or by calling 1-800-XFINITY during normal business hours, if your Service is being stolen or used without your authorization. You also agree to notify us if a Modem has been stolen. When you notify us, you must provide your account number and a detailed description of the circumstances of the theft or unauthorized use. If you fail to notify us in a timely manner, your Service may be terminated without notice, and you may also incur additional charges.
+
+8. 911 and Enhanced 911
+
+Voice includes 911 and Enhanced 911 services. We refer to these services collectively as “911/E911.” Our 911/E911 services have certain limitations, described below, and may differ from the 911/E911 functionality furnished by other providers. YOU ACKNOWLEDGE AND ACCEPT ANY LIMITATIONS OF 911/E911. YOU AGREE TO CONVEY THESE LIMITATIONS TO ALL PERSONS WHO MAY PLACE CALLS OVER THE 911/E911 SERVICES. IF YOU HAVE ANY QUESTIONS ABOUT 911/E911, CALL 1-800-XFINITY OR VISIT https://www.xfinity.com/support/articles/about-e911.
+
+We must have your correct Premises address (as well as any other relevant location information (e.g., apartment, suite, etc.)) to properly direct 911/E911 calls to emergency services. If you move Voice to a different address without our approval, 911/E911 calls may be directed to the wrong emergency authority or may transmit the wrong address. Voice (including 911/E911) may also fail altogether. Before you move Voice or related Xfinity Equipment to a new address, visit https://www.xfinity.com/learn/moving and follow the on-screen instructions to transfer Services; call us at 1-800-XFINITY; or visit https://www.xfinity.com/support/articles/about-e911. All changes in service address require our prior approval.
+
+911/E911 services also use the electrical power in your home. 911/E911 calling service may be interrupted if there is an electrical power outage and if a backup battery is not installed, fails, or is exhausted. Calls to 911/E911 may not be completed if there is a problem with network facilities or equipment. 911/E911 and all online features of Voice may be disabled if your account is suspended or terminated.
+
+9. Additional Limitations of Liability for Xfinity Voice
+
+Our liability for disruption of Xfinity Voice is limited. WE WILL NOT BE LIABLE FOR ANY SERVICE OUTAGE, INABILITY TO DIAL 911/E911 USING THE SERVICES, OR INABILITY TO ACCESS EMERGENCY SERVICE PERSONNEL. YOU AGREE TO DEFEND, INDEMNIFY, AND HOLD US AND EACH RELEASED ENTITY HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS, LOSSES, DAMAGES, FINES, PENALTIES, COSTS, AND EXPENSES (INCLUDING, BUT NOT LIMITED TO, REASONABLE ATTORNEYS’ FEES AND COSTS) INCURRED BY, OR ON BEHALF OF, YOU OR ANY THIRD PARTY OR USER OF THE SERVICES RELATING TO THE FAILURE OR OUTAGE OF THE SERVICES, INCLUDING 911/E911 SERVICES.
+
+Our liability for certain incompatible Customer Equipment and Services is limited. You acknowledge and understand that Voice may not support, or be compatible with, the following Non-Recommended Configurations (as defined in Section 6(b) of the Agreement):
+
+Casual/dial around (10-10) calling;
+
+976, 900, 700, or 500 number calling;
+
+311, 511, or other N11 calling (other than 411, 611, 711, and 911);
+
+Other call types not expressly set forth in our product literature (e.g., outbound shore-to-ship calling); and
+
+Certain service codes such as automatic callback and automatic recall (e.g., *66 and *69) due to compatibility limitations with other carrier signal functions.
+
+Our liability for your Xfinity Voice-related data is limited. We reserve the right to delete your voicemail, call detail, data, files, or other information that is stored on our or our suppliers’ servers or systems, in accordance with our storage policies at any time. You understand and acknowledge that we shall have no liability whatsoever as a result of the loss or removal of any such voicemail, call detail, data, files, or other information.
+
+Our liability for directory listing errors is limited. We may have offered the option for you to list your information in a published directory or in a directory assistance database. OUR AGGREGATE LIABILITY, AND THE AGGREGATE LIABILITY OF ANY RELEASED ENTITY, FOR ANY CLAIMS ARISING FROM OR RELATED TO ERRORS OR OMISSIONS IN ANY PUBLISHED DIRECTORY OR DIRECTORY ASSISTANCE DATABASE SHALL NOT EXCEED THE MONTHLY CHARGES, IF ANY, WHICH YOU HAVE ACTUALLY PAID TO US TO LIST, PUBLISH, NOT LIST, OR NOT PUBLISH YOUR INFORMATION FOR THE AFFECTED PERIOD. YOU SHALL DEFEND, INDEMNIFY, AND HOLD US AND EACH RELEASED ENTITY HARMLESS FROM AND AGAINST ANY AND ALL CLAIMS FOR DAMAGES CAUSED OR CLAIMED TO HAVE BEEN CAUSED, DIRECTLY OR INDIRECTLY, BY ERRORS AND OMISSIONS ARISING FROM, OR RELATED TO, ANY PUBLISHED DIRECTORY OR DIRECTORY ASSISTANCE DATABASE.
+
+Our liability for call verification is limited. We may have offered you enhanced Caller ID services that provide you with an indicator on calls when the caller's voice provider has confirmed that the call is coming from a telephone number that has not been falsified. You understand and acknowledge that an indicator that a particular call has been “verified” does not mean that the call is a desired or legitimate call. Similarly, you understand and acknowledge that the lack of a “verified” indicator does not mean that the call is a nuisance call. You should take care to protect yourself from fraudulent calls. You agree that we shall have no liability whatsoever as a result of any damages caused or claimed to have been caused, directly or indirectly, as a result of your reliance on these enhanced Caller ID services. For information on ways to protect yourself from unwanted calls, please visit our support page at https://www.xfinity.com/support/articles/voice-unwanted-calls.
+
+10. Telephone Number Assignments and Transfers
+
+Telephone numbers for Voice are assigned in accordance with applicable federal and state numbering rules. We do not assign a telephone number outside of the telephone rate center to which that number is already assigned. For information about switching to another provider or the assignment of telephone numbers for Voice, please visit our support page at https://www.xfinity.com/support/articles/local-number-portability.
+
+We will terminate an Xfinity Voice account if you switch its phone number to another service provider.
+
+11. Additional Terms for Xfinity Voice Integrated Services
+
+We may provide certain Voice integrated services through various online portals. These integrated services are also governed by these Additional Terms and the Agreement.
